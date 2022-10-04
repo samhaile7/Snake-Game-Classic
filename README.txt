@@ -1,1 +1,1 @@
-Classic Snake Game built using Python and Turtle library. Ongoing improvements. 
+Personal Project: Classic Snake Game built using Python and Turtle library. Improvements ongoing.
